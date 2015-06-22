@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\adt-bundle-windows-x86_64-20131030\sdk\extras\android\m2repository\com\android\support\support-v4\19.0.1\support-v4-19.0.1.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="587da9a481ffd341d2fa091704489b89845ddacd">
+        <dex dex="F:\AndroidStudioProjects\XMLJDOMParser\app\build\intermediates\pre-dexed\debug\support-v4-19.0.1-8af043f6f7006e0d6d338aed892a7eb677282112.jar" />
+    </item>
+    <item
+        jar="F:\AndroidStudioProjects\XMLJDOMParser\jdom-2.0.3\jdom-2.0.3.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="9f6909efb7121532c8dd5c2797ed35a5dddc120d">
+        <dex dex="F:\AndroidStudioProjects\XMLJDOMParser\app\build\intermediates\pre-dexed\debug\jdom-2.0.3-16a6d831382d6a5c2a56dd461797a6a3e81e8366.jar" />
+    </item>
+
+</items>
